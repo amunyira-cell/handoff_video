@@ -1,4 +1,4 @@
-[handoff_video_call_app_v2.html](https://github.com/user-attachments/files/23482225/handoff_video_call_app_v2.html)
+(https://github.com/user-attachments/files/23482225/handoff_video_call_app_v2.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
